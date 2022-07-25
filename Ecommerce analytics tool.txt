@@ -1,0 +1,25 @@
+
+Problem Statement :
+
+Case Study : E-Commerce Analytics Tool
+
+1) Region that accounts for greater number of orders
+2) Frequency Distribution of Quanity Ordered
+3) Percentage Sales by different product categories
+4) Profitable product in last few years. 
+5) Products that incurred losses. 
+6) Product type that was ordered greater number of times. 
+7) Yearly sales for various states
+8) Trend in Profit/Sales over time(year/month/Quarter)
+
+Create dashboard to present the following visulaizations :
+
+3: Calculating Sales Percentage :
+*Sales percentage = (sales in particular category/Total Sales)*100
+*Total Sales = 2297200.86
+
+Sales percentage = (Sales in particular category/2297200.86)*100
+This will be done in two steps :
+Step 1 : Sales in particular category/2297200.86
+Step 2 : (Sales in particular category/2297200.86)*100
+
